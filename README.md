@@ -1,3 +1,3 @@
 Food: Pizza
 
-Favorite topping: Cheese
+Favorite topping: Pepperoni
